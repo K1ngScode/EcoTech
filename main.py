@@ -1,0 +1,1 @@
+from dominio.empleados import Empleado
